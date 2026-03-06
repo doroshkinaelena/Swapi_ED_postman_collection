@@ -1,0 +1,1 @@
+# Swapi_ED_postman_collection
